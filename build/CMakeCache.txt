@@ -94,7 +94,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELEASE:STRING=/INCREMENTAL:NO
 CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO:STRING=/debug /INCREMENTAL
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=hello
+CMAKE_PROJECT_NAME:STATIC=try-cpp
 
 //RC compiler
 CMAKE_RC_COMPILER:FILEPATH=rc
@@ -164,6 +164,12 @@ hello_BINARY_DIR:STATIC=C:/Users/note109/workspace/try-cpp/build
 
 //Value Computed by CMake
 hello_SOURCE_DIR:STATIC=C:/Users/note109/workspace/try-cpp
+
+//Value Computed by CMake
+try-cpp_BINARY_DIR:STATIC=C:/Users/note109/workspace/try-cpp/build
+
+//Value Computed by CMake
+try-cpp_SOURCE_DIR:STATIC=C:/Users/note109/workspace/try-cpp
 
 
 ########################
