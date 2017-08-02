@@ -1,7 +1,0 @@
-﻿  Building Custom Rule C:/Users/note109/workspace/try-cpp/CMakeLists.txt
-  CMake does not need to re-run because C:/Users/note109/workspace/try-cpp/build/CMakeFiles/generate.stamp is up-to-date.
-  ppm.cpp
-c:\users\note109\workspace\try-cpp\vec3.h(52): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
-c:\users\note109\workspace\try-cpp\vec3.h(131): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\note109\workspace\try-cpp\ppm.cpp(10): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
-  ppm.vcxproj -> C:\Users\note109\workspace\try-cpp\build\Release\ppm.exe
